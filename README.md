@@ -97,6 +97,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ## Contact
-- **GitHub**: [your-username](https://github.com/eduolihez)
+- **GitHub**: [eduolihez](https://github.com/eduolihez)
 
 This project was created for educational purposes in authorized cybersecurity training.
